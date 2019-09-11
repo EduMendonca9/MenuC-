@@ -49,7 +49,7 @@ int main()
 		//Programas
 		switch(i)
 		{
-			//Programa que verifica se o numero Ã© Par ou NÃ£o
+			//Programa que verifica se o numero é Par ou Não
 			case 1 :
 				printf("\nAgora digite um numero: ");
 				scanf("%d", &Numero );
@@ -60,7 +60,7 @@ int main()
 					printf("\nResposta:O numero nao e Par\n");
 			break;
 			
-			//Programa que verifica se o Ano Ã© Bissexto
+			//Programa que verifica se o Ano é Bissexto
 			case 4 :
 				printf("\nDigite o Ano: ");
 				scanf("%d", &Ano);
@@ -105,7 +105,7 @@ int main()
 					printf("\nNOTAS INVALIDAS\n");
 			break;
 			
-			//Programa que le um numero e diz se ele Ã© primo ou nÃ£o
+			//Programa que le um numero e diz se ele é primo ou não
 			case 8 :
 				printf("\nDigite um numero: ");
 				scanf("%d", &NUMERO);
@@ -126,7 +126,7 @@ int main()
 				
 			break;
 			
-			//Programa que le um numero e mostra os primeiros numeros da sequÃªncia de Fibonacci
+			//Programa que le um numero e mostra os primeiros numeros da sequência de Fibonacci
 			case 9 :
 				printf("\nDigite um numero: ");
 				scanf("%d", &numero );
@@ -166,3 +166,4 @@ int main()
 	
 	printf("Ate logo!!!!");
 }
+
